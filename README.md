@@ -54,11 +54,7 @@ This Python script scrapes the title and price of a specific Amazon product and 
 - Ensure that you have configured your Gmail account to allow less secure apps to send emails if you're using Gmail for sending notifications.
 - This script is intended for educational purposes. Use responsibly and respect Amazon's terms of service.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Additional Notes:
 - **Structure**: Ensure your directory structure reflects the README. Place the script (`amazon_scraper.py`) and the CSV file (`AmazonWebScraperDataset.csv`) in the same directory.
